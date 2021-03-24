@@ -38,9 +38,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-![](your-link-here)
+Showcasing Required Features:
 
+### Skipping to the winning message
+![Winning the Game](/Gifs/win.gif)
+
+### Losing message
+![Losing the Game](/Gifs/lose.gif)
+
+Showcasing optional Features:
+### Random pattern on start
+![Random](/Gifs/random.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
