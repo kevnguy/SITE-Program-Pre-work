@@ -4,7 +4,7 @@
 
 Submitted by: **Kevin Nguyen**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: [Glitch project](https://glitch.com/edit/#!/clammy-pebble-pearl)
 
@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 
 Showcasing Required Features:
 
-### Skipping to the winning message
-![Winning the Game](/Gifs/win.gif)
+### Full play through of default pattern with winning message
+![Defualt Playthrough](/Gifs/full.gif)
 
 ### Losing message
 ![Losing the Game](/Gifs/lose.gif)
